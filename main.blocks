@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="UE|-lkU@5bDp]ovzbNBy" x="0" y="0"></block><block type="device_forever" id="#5eU3{prd|w6#~gG/]JA" x="-21" y="266"><statement name="HANDLER"><block type="basic_show_icon" id="Nz3Ah~iVWFR**m!I!L?;"><field name="i">IconNames.Duck</field><next><block type="device_pause" id="6,ma}gTO2U,.j?S*iTv~"><value name="pause"><shadow type="timePicker" id="y+mTt6~)OcVcSDbc31/H"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="q8RN~FW:#R8Ml!TQOC#["><field name="LEDS">`
+        . # # . . 
+        # # # . . 
+        . # # # # 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_pause" id="uA+%z[(_l-R=0%f0n?jn"><value name="pause"><shadow type="timePicker" id=";N4P9:^pcWkQ1#_N8=Vm"><field name="ms">500</field></shadow></value></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="P55+GO0RS=)L%v}f3YrX" x="305" y="396"><statement name="HANDLER"><block type="basic_show_icon" id="DKa|y#O6_;(/7/UyC_?@"><field name="i">IconNames.Duck</field><next><block type="device_pause" id="{t7H1Tsopi]lhoWaipj6"><value name="pause"><shadow type="timePicker" id="9tT@q[8S6UjH{;FZc,4b"><field name="ms">500</field></shadow></value></block></next></block></statement></block></xml>
